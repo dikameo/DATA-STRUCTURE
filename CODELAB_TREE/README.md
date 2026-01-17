@@ -4,7 +4,7 @@ Welcome to the Code Lab! Your mission is to reconstruct the **Kitab Negarakertag
 
 ---
 
-## 🏛️ Mission 3: The Majapahit Empire - Binary Tree
+## 🏛️ Mission 1: The Majapahit Empire - Binary Tree
 **File:** `BinaryTreeExercise.java`
 
 **Objective:**
@@ -22,6 +22,9 @@ The program includes a built-in guide on **Tree Fundamentals** (Root, Node, Leaf
     *   **InOrder**: Alphabetical sorting (A-Z).
     *   **PreOrder**: Hierarchical structure.
     *   **PostOrder**: Historical archives (Bottom-up).
+4.  **Chronicle Search (Search)**: Implement logic to find if a specific figure exists in the records.
+5.  **Dynasty Limits (Min/Max)**: Find the first (Alphabetical Start) and last (Alphabetical End) names in the index.
+6.  **Historical Correction (Deletion)**: Implement the logic to remove a figure from the tree (Handling cases for 0, 1, or 2 children).
 
 **Visual Guide (Majapahit Hierarchy):**
 ```
@@ -33,6 +36,8 @@ Gajah Mada  Kertanegara
     \
    Hayam Wuruk
 ```
+
+---
 
 ## 📝 How to Submit
 1. Open `BinaryTreeExercise.java`.
